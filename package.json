@@ -1,0 +1,13 @@
+{
+  "name": "killall",
+  "version": "1.0.0",
+  "description": "",
+  "author": "David Konsumer <konsumer@jetboystudio.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ms-task": "^1.1.0"
+  },
+  "bin": {
+    "killall": "killall.js"
+  }
+}
