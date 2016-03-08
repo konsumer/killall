@@ -9,6 +9,6 @@
   },
   "preferGlobal": true,
   "bin": {
-    "killall": "./killall.js"
+    "killall": "./bin/killall"
   }
 }
