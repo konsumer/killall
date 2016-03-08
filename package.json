@@ -7,7 +7,8 @@
   "dependencies": {
     "ms-task": "^1.1.0"
   },
+  "preferGlobal": true,
   "bin": {
-    "killall": "node killall.js"
+    "killall": "./killall.js"
   }
 }
